@@ -2,7 +2,7 @@
 
 1. Create a new GH repository for testing
 
-2. Create local repository for testing
+2. Create local repository for testing [x]
 
 3. In readme file write down all steps I do for this task
 
