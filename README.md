@@ -1,6 +1,6 @@
 #Testing
 
-1. Create a new GH repository for testing
+1. Create a new GH repository for testing [x]
 
 2. Create local repository for testing [x]
 
@@ -17,3 +17,10 @@
 8. Solve merge conflict
 
 9. Update the readme file with instructions how to avoid merge conflicts and how to solve it.
+
+# How to avoid merge conflicts and how to solve it
+
+- 'git pull origin'
+- Compare what is conflicting
+- If both need to be merged, 'git merge origin'!
+- Push the merged file to the main
