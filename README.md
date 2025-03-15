@@ -1,6 +1,6 @@
 #Testing
 
-1. Create a new GH repository for testing
+1. Create a new GH repository for testing [x]
 
 2. Create local repository for testing
 
