@@ -14,7 +14,7 @@
 
 7. Make changes on the local repository and then push it to the remote repository. [x]
 
-8. Solve merge conflict
+8. Solve merge conflict [x]
 
 9. Update the readme file with instructions how to avoid merge conflicts and how to solve it.
 
