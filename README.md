@@ -4,11 +4,11 @@
 
 2. Create local repository for testing [x]
 
-3. In readme file write down all steps I do for this task
+3. In readme file write down all steps I do for this task [x]
 
-4. Connect both repositories
+4. Connect both repositories [x]
 
-5. Make changes on the local repository and then push it to the remote repository.
+5. Make changes on the local repository and then push it to the remote repository. [x]
 
 6. Make changes to the remote repository.
 
