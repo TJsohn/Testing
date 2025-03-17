@@ -10,7 +10,7 @@
 
 5. Make changes on the local repository and then push it to the remote repository. [x]
 
-6. Make changes to the remote repository.
+6. Make changes to the remote repository. [x]
 
 7. Make changes on the local repository and then push it to the remote repository.
 
